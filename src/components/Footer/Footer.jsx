@@ -25,9 +25,10 @@ const Footer = () => {
             <h2>COMPANY</h2>
             <ul>
                 <li><a href="/">Home</a></li>
-                <li>About us</li>
-                <li>Delivery</li>
-                <li>Privacy policy</li>
+                <li><a href="/#footer">About us</a></li>
+              <li><a href="/cart">Delivery</a></li>
+
+                <li><a href="/#footer">Privacy policy</a></li>
            </ul>
             </div>
         <div className="footer-content-right">
