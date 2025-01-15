@@ -17,7 +17,7 @@ const Footer = () => {
             <img src={assets.instagram_icon_icon} alt="Instagram" />
           </a>
           <a href="https://www.linkedin.com/in/khushi-gar-54904a229/" target="_blank" rel="noopener noreferrer">
-            <img src={assets.linkedin_icon_icon} alt="linkedin" />
+            <img src={assets.linkedin_icon} alt="linkedin" />
           </a>
           </div>
         </div>
