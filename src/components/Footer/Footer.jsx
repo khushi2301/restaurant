@@ -8,27 +8,20 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
-          <p>Welcome to Tomato, where passion for great food meets an inviting atmosphere. At Tomato, we believe that every meal is an opportunity to create unforgettable moments. Whether you're craving comforting classics or adventurous flavors, our diverse menu offers something for everyone.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam veniam, eligendi dolores amet temporibus excepturi minus magni natus quibusdam deleniti expedita quaerat. Facere quae, veniam inventore repellendus nihil voluptatem nulla!</p>
           <div className="footer-social-icon">
-          <a href="https://m.facebook.com/khushi.gar.9/" target="_blank" rel="noopener noreferrer">
-            <img src={assets.facebook_icon} alt="Facebook" />
-          </a>
-         <a href="https://x.com/GarKhushi53278" target="_blank" rel="noopener noreferrer">
-            <img src={assets.twitter_icon} alt="Twitter" />
-          </a>
-          <a href="https://www.linkedin.com/in/khushi-gar-54904a229/" target="_blank" rel="noopener noreferrer">
-            <img src={assets.linkedin_icon} alt="linkedin" />
-          </a>
+          <img src={assets.facebook_icon} alt="" />
+          <img src={assets.twitter_icon} alt="" />
+          <img src={assets.linkedin_icon} alt="" />
           </div>
         </div>
         <div className="footer-content-center">
             <h2>COMPANY</h2>
             <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/#footer">About us</a></li>
-              <li><a href="/cart">Delivery</a></li>
-
-                <li><a href="/#footer">Privacy policy</a></li>
+                <li>Home</li>
+                <li>About us</li>
+                <li>Delivery</li>
+                <li>Privacy policy</li>
            </ul>
             </div>
         <div className="footer-content-right">
