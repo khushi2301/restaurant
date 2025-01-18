@@ -14,10 +14,10 @@ const Footer = () => {
             <img src={assets.facebook_icon} alt="Facebook" />
           </a>
           <a href="https://x.com/GarKhushi53278" target="_blank" rel="noopener noreferrer">
-            <img src={assets.facebook_icon} alt="twitter" />
+            <img src={assets.twitter_icon} alt="twitter" />
           </a>
           <a href="https://www.linkedin.com/in/khushi-gar-54904a229/" target="_blank" rel="noopener noreferrer">
-            <img src={assets.facebook_icon} alt="linkedin" />
+            <img src={assets.linkedin_icon} alt="linkedin" />
           </a>
           </div>
         </div>
