@@ -27,7 +27,7 @@ const Footer = () => {
                 <li><a href="/">Home</a></li>
 
                 <li><a href="#footer">About</a></li>
-                 <li><a href="/cart">Delivery</a></li>
+                 <li><a href="#explore-menu">Delivery</a></li>
                 <li><a href="#footer">Privacy</a></li>
            </ul>
             </div>
